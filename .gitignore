@@ -1,0 +1,23 @@
+# Virtual environment folders
+venv/
+env/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment files
+*.env
+
+# Lock files
+uv.lock
+
+# Optional: Byte-compiled / optimized / DLL files
+*.pyd
+*.so
+*.dll
+
+# Optional: IDE / editor specific files
+.vscode/
+.idea/
